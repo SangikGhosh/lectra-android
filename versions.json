@@ -1,5 +1,7 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.3.0",
   "min_required_version": "1.0.0",
-  "download_url": "https://github.com/SangikGhosh/LearniFy.apk/releases/download/v1.0.0/app-release.apk"
+  "download_url": "https://github.com/SangikGhosh/lectra-android/releases/download/v1.3.0/Lectra-v1.3.0-arm64-v8a.apk",
+  "app_name": "Lectra",
+  "release_notes": "• classrooms — home lists, create, join by code, invites, people and settings\n• a new classroom takes the phone's time zone without asking\n• show nothing about time zones when the phone's is detected\n• open invite links in the app\n• ask for the time zone when the phone can't tell us\n• use the auth screens' back arrow everywhere\n• check for updates at SangikGhosh/lectra-android"
 }
